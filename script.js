@@ -35,7 +35,7 @@ const quizQuestions = [
         ]
     },
     {
-        question: "What`s was the theme of our 1st year anniversary?",
+        question: "What was the Theme of our 1st year Anniversary?",
         answers: [
             { text: "rooted", correct: false },
             { text: "Ebenezer", correct: true },
